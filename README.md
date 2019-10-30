@@ -160,4 +160,4 @@ docker secret rm jenkins-user
 docker secret rm jenkins-pass
 ```
 
-### To enable multiple executors, need to change in Manage Jenkins==> config Node allow more than 2 executors to run
+### To enable multiple executors, need to change in Manage Jenkins==> COnfigure Systems==># of executors =10
