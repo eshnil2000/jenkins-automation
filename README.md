@@ -161,3 +161,5 @@ docker secret rm jenkins-pass
 ```
 
 ### To enable multiple executors, need to change in Manage Jenkins==> COnfigure Systems==># of executors =10
+
+### To configure User security Manage Jenkins==>Configure Global Security==>Matrix based Security
